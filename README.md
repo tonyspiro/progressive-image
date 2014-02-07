@@ -5,3 +5,5 @@ A JQuery plugin that dymanically adjusts the source of your images (small to lar
 
 Easy to use:
 ------------
+``` javascript
+$(element(s)).dynamicImage(); 
