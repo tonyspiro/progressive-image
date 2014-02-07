@@ -10,8 +10,6 @@ This creates a "blurr" to "in focus" effect which is a better alternative than l
 
 Plus, it will serve the correct image size to the user based on their browser size, thus eliminating unnessessarily large images and slow loading for mobile devices.
 
-Dynamic Image dynamically serves images to the user based on their browser size.
-
 Easy to use:
 -------
 ``` html
