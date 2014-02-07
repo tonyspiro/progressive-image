@@ -4,9 +4,9 @@
 A JQuery plugin that dymanically adjusts the source of your images (small to large) for different browser widths.
 
 Easy to use:
-------------
-Include in your document
 ``` html
+<html>
+<head>
 <script src='jquery.js'></script>
 <script src='dynamic-image.js'></script>
 <script>
@@ -14,4 +14,8 @@ $(function(){
   $(".images").dynamicImage(); 
 });
 </script>
+</head>
+<body>
+</body>
+</html>
 ```
