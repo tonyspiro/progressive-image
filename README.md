@@ -1,7 +1,7 @@
 # [Dynamic Image](http://tonyspiro.com)
 View a demo <a target="_blank" href="http://dev.tonyspiro.com/dynamic-image/">here</a>.
 
-Dynamic Image is a JQuery plugin that dymanically adjusts the source of images for different browser widths.  Just start with three image sizes and it loads the images in order of size (small to large) when they are fully loaded into the page:
+Dynamic Image is a JQuery plugin that dynamically adjusts the source of images for different browser widths.  Just start with three image sizes and it loads the images in order of size (small to large) when they are fully loaded into the page:
 
 1. Src Version
 2. Mobile Version
@@ -10,7 +10,7 @@ Dynamic Image is a JQuery plugin that dymanically adjusts the source of images f
 
 This creates a "blurr" to "in focus" effect which is a better alternative than longer loading times and visually loading down a large image.
 
-Plus, it will serve the correct image size to the user based on their browser size, thus eliminating unnessessarily large images and slow loading for mobile devices.
+Plus, it will serve the correct image size to the user based on their browser size, thus eliminating unnecessarily large images and slow loading for mobile devices.
 
 Easy to use:
 -------
