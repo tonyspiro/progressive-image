@@ -1,7 +1,7 @@
 # [dynamic-image](http://tonyspiro.com)
-A JQuery plugin that dymanically adjusts the source of your images (small to large) for different browser widths.  It loads the images:
+A JQuery plugin that dymanically adjusts the source of your images (small to large) for different browser widths.  Just start with your three image sizes and it loads the images in order of size (small to large):
 
-1. Src Version (keep this small)
+1. Src Version
 2. Mobile Version
 3. Tablet Version
 4. Full Version
