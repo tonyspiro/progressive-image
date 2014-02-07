@@ -22,7 +22,7 @@
 			var imgMobile = $(this).attr("img-mobile");
 			var type = $(this).attr("img-type");
 			
-			$(this).addClass("responsive-image-" + num);
+			$(this).addClass("dynamic-image-" + num);
 			
 			var id = num;
 			
@@ -51,11 +51,11 @@
 					
 					if(type=="background"){ 
 					
-						$(".responsive-image-" + id).css("background-image","url(" + imgTablet + ")");
+						$(".dynamic-image-" + id).css("background-image","url(" + imgTablet + ")");
 							
 					} else {
 						
-						$(".responsive-image-" + id).attr("src", imgTablet);
+						$(".dynamic-image-" + id).attr("src", imgTablet);
 					
 					}
 					
@@ -70,11 +70,11 @@
 					
 					if(type=="background"){ 
 						
-						$(".responsive-image-" + id).css("background-image","url(" + imgFull + ")");
+						$(".dynamic-image-" + id).css("background-image","url(" + imgFull + ")");
 							
 					} else {
 						
-						$(".responsive-image-" + id).attr("src", imgFull);
+						$(".dynamic-image-" + id).attr("src", imgFull);
 					
 					}
 					
