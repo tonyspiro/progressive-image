@@ -9,7 +9,9 @@ Include in your document
 ``` html
 <script src='jquery.js'></script>
 <script src='dynamic-image.js'></script>
+<script>
+$(function(){
+  $(".images").dynamicImage(); 
+});
+</script>
 ```
-
-``` javascript
-$(".images").dynamicImage(); 
