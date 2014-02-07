@@ -6,6 +6,9 @@ Easy to use:
 ``` html
 <html>
 <head>
+</head>
+<body>
+<img src="" />
 <script src='jquery.js'></script>
 <script src='dynamic-image.js'></script>
 <script>
@@ -13,8 +16,6 @@ $(function(){
   $(".images").dynamicImage(); 
 });
 </script>
-</head>
-<body>
 </body>
 </html>
 ```
