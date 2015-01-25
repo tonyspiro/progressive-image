@@ -1,6 +1,8 @@
 Progressive Image
 =============
-Progressive Image is a JQuery plugin that progressively adds larger images based on the current browser width.  It starts from mobile and progressively builds to tablet then to full size if the browser.  If viewing from a mobile device, Progressive Image will load only the mobile version.  If viewing from a tablet the mobile version is loaded first and then the tablet version.  If viewing desktop, the mobile version is loaded then tablet and finally the full version.
+Progressive Image is a JQuery plugin that progressively adds larger images based on the current browser width.  It starts from mobile and progressively builds to tablet then to full size.  
+
+If viewing from a mobile device, Progressive Image will load only the mobile version.  If viewing from a tablet the mobile version is loaded first and then the tablet version.  If viewing desktop, the mobile version is loaded then tablet and finally the full version.
 
 This creates a "blur" to "in focus" effect which is a better alternative than longer loading times and visually loading down a large image.
 
