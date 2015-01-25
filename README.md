@@ -6,7 +6,7 @@ If viewing from a mobile device, Progressive Image will load only the mobile ver
 
 This creates a "blur" to "in focus" effect which is a better alternative than longer loading times and visually loading down a large image.
 
-This serves the correct image size to the user based on their browser size, which allows for faster page load.
+This also allows for faster page load because the device will always recevive the appropriate image size.
 
 Easy to use:
 -------
